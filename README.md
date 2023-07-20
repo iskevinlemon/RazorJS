@@ -1,5 +1,4 @@
 # RazorJS
-<br/>
 JavaScript library for Razor (@) templating.
 <br/>
 
