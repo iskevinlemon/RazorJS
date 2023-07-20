@@ -1,6 +1,6 @@
 /*
 RazorJS - JavaScript library for Razor (@) templating.
-Credits - This project is inspired by Microsoft ASP .NET Razor syntax.
+Credits - This project is inspired by the Microsoft ASP .NET Razor syntax.
 
 > IMPORTANT: Razor.js have to be LOADED first before your actual <script> tag.
 
