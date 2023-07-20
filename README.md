@@ -2,7 +2,7 @@
 JavaScript library for Razor (@) templating.
 <br/>
 
-# Usage
+# Usage examples
 
 **Data Binding (bind value)** <br>
 ```html
@@ -18,5 +18,13 @@ JavaScript library for Razor (@) templating.
 
 <script>
     var sayhello = `onclick="alert('Hello')"`;
+</script>
+```
+**Data Binding (bind component)** <br>
+```html
+@goodmorning <!-- will be rendered as <h3>Good Morning</h3> -->
+
+<script>
+    var goodmorning = '<h3>Good Morning</h3>';
 </script>
 ```
