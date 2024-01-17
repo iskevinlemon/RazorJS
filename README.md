@@ -2,6 +2,9 @@
 JavaScript library for Razor (@) templating.
 <br/>
 
+**CDN link** <br>
+https://cdn.jsdelivr.net/gh/iskevinlemon/RazorJS/Razor.js
+
 # Usage examples
 
 **Data Binding (bind value)** <br>
