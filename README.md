@@ -1,8 +1,10 @@
 # RazorJS
 JavaScript library for Razor (@) templating.
 <br/>
+<h1>⚠️ Warning: DO NOT USE in production</h1>
+There is a bug in which all eventListener in the document is cancelled off.
 
-**CDN link** <br>
+# CDN link
 ```html
 <script src="https://cdn.jsdelivr.net/gh/iskevinlemon/RazorJS/Razor.js"></script>
 ```
