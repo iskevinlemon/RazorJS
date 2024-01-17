@@ -3,7 +3,9 @@ JavaScript library for Razor (@) templating.
 <br/>
 
 **CDN link** <br>
-https://cdn.jsdelivr.net/gh/iskevinlemon/RazorJS/Razor.js
+```html
+<script src="https://cdn.jsdelivr.net/gh/iskevinlemon/RazorJS/Razor.js"></script>
+```
 
 # Usage examples
 
